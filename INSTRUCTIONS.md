@@ -1,6 +1,5 @@
 # ICS3U Unit 1 Research Assignment: Emerging Technologies
 
-## Task
 Choose one emerging technology from the list below (or propose your own with approval). Research it, then present your findings in a Markdown (`.md`) file in GitHub.
 
 ## Step 1: Choose a Topic
