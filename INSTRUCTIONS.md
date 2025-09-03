@@ -61,9 +61,11 @@ As you research your topic, make sure you are able to answer the following quest
 - **Blockquotes:** Use blockquotes (`>`) to emphasize important definitions, quotes, or key ideas.  
 
 ### Example Snippets
-## This is a Section Header
-### This is a Subsection
-#### This is a Subsection of a Subsection (Level 4 Header)
+
+# This is a Level 1 Title
+## This is a Level 2 Section Header
+### This is a Level 3 Subsection
+#### This is a Level 4 Subsection
 
 Here is an inline link to the Wikipedia entry on [Markdown](https://en.wikipedia.org/wiki/Markdown) syntax.
 
