@@ -63,10 +63,12 @@ As you research your topic, make sure you are able to answer the following quest
 ### Example Snippets
 ## This is a Section Header
 ### This is a Subsection
+#### This is a Subsection of a Subsection (Level 4 Header)
 
-Here is an inline link to [Wikipedia](https://en.wikipedia.org/wiki/Main_Page).
+Here is an inline link to the Wikipedia entry on [Markdown](https://en.wikipedia.org/wiki/Markdown) syntax.
 
 Here is an image linked from the web:  
+
 ![Example Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/120px-Markdown-mark.svg.png)
 
 > This is a blockquote used to highlight an important idea.
