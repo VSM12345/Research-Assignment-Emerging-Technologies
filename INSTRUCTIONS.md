@@ -53,7 +53,7 @@ As you research your topic, make sure you are able to answer the following quest
   - Images  
   - Links  
 
-### Markdown Reference & Best Practices
+## Markdown Reference & Best Practices
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - **Headers:** Use different header levels (`##`, `###`, etc.) to create a hierarchy and organize your sections, like chapters and subheadings in a textbook.  
 - **Inline Links:** Add contextual links directly in your text (e.g., linking to a [Wikipedia article](https://en.wikipedia.org/wiki/Main_Page)) so readers can explore more information.  
