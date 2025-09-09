@@ -1,10 +1,8 @@
 # Commit Messages: DOs and DON'Ts
 
-For this assignment, part of your grade is based on **Commit History & Workflow**.  
-That means I am looking not only at the work in your README.md, but also at *how you got there* -- the series of commits you make as you build your project.
+For this assignment, part of your grade is based on **Commit History & Workflow**. That means I am looking not only at the work in your README.md, but also at *how you got there* -- the series of commits you make as you build your project.
 
-A commit is like saving your progress **with a note to yourself (and others)** about what changed.  
-Good commit habits show steady progress and professionalism.  
+A commit is like saving your progress **with a note to yourself (and others)** about what changed. Good commit habits show steady progress and professionalism.  
 
 ## How Often Should You Commit?  
 - Do not commit after every single sentence. That’s unnecessary.  
