@@ -1,4 +1,4 @@
-# Commit Messages: DOs and DON'Ts
+# Writing Commit Messages: DOs and DON'Ts
 
 For this assignment, part of your grade is based on **Commit History & Workflow**. That means I am looking not only at the work in your README.md, but also at *how you got there* -- the series of commits you make as you build your project.
 
