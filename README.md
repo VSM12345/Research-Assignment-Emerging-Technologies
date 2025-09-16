@@ -3,7 +3,7 @@
 ## Introduction  
 Quantum computing is one of the most **revolutionary technologies** currently being developed. Unlike classical computers, which use **bits** that can be either `0` or `1`, quantum computers use **qubits**, which can exist in multiple states at once due to a principle called *superposition*. This allows them to process information in ways that classical computers cannot.  
 
----
+----
 
 ## A. Understanding the Technology  
 
